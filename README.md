@@ -2,7 +2,8 @@
 This is deep learning class lessons. 
 
 **Installations:**
-1. Pull Docker image from [here](). This has all the required installations for us to run DL lessions. 
+1. Make sure you have docker installed on your machine. 
+2. run following command to get the docker image `docker build https://github.com/milinddeore/tensorflow.git#:tensorflow/tools/docker -t "mdeore:dl-course"`
 
 **Dataset:**
 1. Sample dog-cat dataset: [here](https://www.dropbox.com/s/df6vzzdc96cce6p/sample-dog-cat.tar) 
