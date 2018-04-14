@@ -7,7 +7,7 @@ This is deep learning class lessons.
 2. run following command to get the docker image `docker build https://github.com/milinddeore/tensorflow.git#:tensorflow/tools/docker -t "mdeore:dl-course"`
 
 ## Running The Container
-`docker run -it -p 8888:8888 -p 6006:6006 <container image>`
+`docker run -it -p 8008:8008 -p 6006:6006 <container image>`
 
 
 ## Dataset
