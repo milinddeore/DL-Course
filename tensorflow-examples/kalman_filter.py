@@ -1,4 +1,6 @@
 # Kalman Filter in tensorflow
+# MIT Licence.
+# Based on article published https://www.cs.utexas.edu/~teammco/misc/kalman_filter/
 #
 #  run: $ python3 kalman_filter.py
 #
