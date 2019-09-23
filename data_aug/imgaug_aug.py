@@ -1,6 +1,7 @@
 #
 # Copyright (c) 2017 Mellowain
 # This software is released under the MIT license. See the attached LICENSE file for details.
+# Written by Milind Deore <tomdeore@gmail.com>
 #
 # This code snippet use imgaug(https://github.com/aleju/imgaug) library to augment the given input image
 # and convert them in the same directory structure as input was.
